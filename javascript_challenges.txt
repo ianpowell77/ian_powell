@@ -1,0 +1,28 @@
+Javascript Challenges
+---------------------
+1.	for (var i = 1; i < 11; i++){
+           console.log(i);
+	}
+
+2.	function myName(){
+  var firstName = prompt('What is your first name?');
+  var lastName = prompt ('What is your last name?');
+  alert('Hello my name is ' + firstName + ' ' +lastName);
+}
+
+myName() 
+//-- I know this isnt exactly what you asked for but its a little more complicated
+
+3.for (var i = 1; i <= 4; i++){
+  console.log('Ian Powell');
+}
+
+4.var names = ["Ian", "Victoria", "Ivan", "Lesly"]
+
+for (var i = 0 ; i <= 3; i++) {
+  console.log(names[i]);
+}
+
+5.for (var i = 10; i>0; i--){
+  console.log(i)
+}
