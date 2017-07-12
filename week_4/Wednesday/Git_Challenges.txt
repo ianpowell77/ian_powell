@@ -1,7 +1,7 @@
 Git Challenges
 ______________
 
-1.git Status
+1.git pull
 
 2.git checkout -b calculator
 
